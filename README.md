@@ -1,4 +1,6 @@
-# 🎮 Jogos com ESP32 + MPU6050 + SSD1306
+# Projeto da Disciplina Sistemas Embarcados 2025.1
+
+## 🎮 Jogos com ESP32 + MPU6050 + SSD1306
 
 Projeto de desenvolvimento de um sistema embarcado com o microcontrolador **ESP32**, sensor **MPU6050** (acelerômetro/giroscópio) e display OLED **SSD1306**. O objetivo é implementar 4 minigames interativos controlados por inclinação.
 
