@@ -13,12 +13,6 @@ Projeto de desenvolvimento de um sistema embarcado com o microcontrolador **ESP3
 
 ---
 
-## 🎯 Objetivo
-
-Criar uma coleção de jogos clássicos adaptados para dispositivos embarcados, com controle baseado em movimentos detectados pelo sensor MPU6050. O display SSD1306 é utilizado para a interface visual de cada jogo.
-
----
-
 ## 🧠 Tecnologias Utilizadas
 
 - **ESP32** – Microcontrolador principal
