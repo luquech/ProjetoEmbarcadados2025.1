@@ -3,7 +3,7 @@
 
 #include <driver/i2c.h>
 #include <stdbool.h>
-#include <stdint.h>
+#include <string.h>
 
 // Definições do display OLED
 #define OLED_I2C_ADDRESS 0x3C
@@ -18,6 +18,10 @@
 #define OLED_CMD_SET_MEMORY_ADDR_MODE 0x20
 #define OLED_CMD_SET_COLUMN_RANGE 0x21
 #define OLED_CMD_SET_PAGE_RANGE 0x22
+
+// Definições de pinos
+#define SDA_PIN GPIO_NUM_21
+#define SCL_PIN GPIO_NUM_22
 
 // Configurações do display
 #define WIDTH 128
