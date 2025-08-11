@@ -1,8 +1,8 @@
 #ifndef SDCARD_H
 #define SDCARD_H
 
-#include "driver/sdmmc_types.h"
 #include <stdbool.h>
+#include "driver/sdmmc_types.h"
 
 // SD Card
 #define PIN_NUM_MISO GPIO_NUM_19
